@@ -4,4 +4,4 @@
 <h3> 🔍 Users Can Search for Recipes</h3>
 <h3> ⭐ Add to & Remove from Favourites</h3>
 <h3> 📟 Implemented Dynamic Routing </h3>
-<h2> 🟢 Currently Hosted at:  </h2>
+<h2> 🟢 Currently Hosted at: https://recipe-app-react01.netlify.app/ </h2>

@@ -1,8 +1,7 @@
-# React + Vite
-
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+<h2> 🚀 Created a Recipe App 🍕🍔 using React JS (with these highlights):</h2>
+<h3> 🔄 Implemented useState, useEffect, useContext, useParam hook</h3>
+<h3> 🎨 Styled the App with Tailwind's Utility-First Classes </h3>
+<h3> 🔍 Users Can Search for Recipes</h3>
+<h3> ⭐ Add to & Remove from Favourites</h3>
+<h3> 📟 Implemented Dynamic Routing </h3>
+<h2> 🟢 Currently Hosted at:  </h2>
